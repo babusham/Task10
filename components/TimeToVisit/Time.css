@@ -1,0 +1,15 @@
+.season-heading{
+    margin-top: -30px;
+}
+.season-text{
+    text-indent: 5rem ;
+    text-align: justify;
+    font-size: 1rem;
+}
+.season-img{
+    width: 100%;
+    height: auto;
+ }
+ .fix{
+   text-indent: 1.2rem;
+ }  
